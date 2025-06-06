@@ -31,7 +31,6 @@ Applied and compared 4 models to predict insurance charges:
 - **Top Drivers of Charges**: `smoker status`, `age`, `BMI`  
 - **Bias Caution**: Gender and region can skew results—fairness addressed with feature scaling and dummy encoding  
 - **Random Forest selected for deployment** due to high predictive accuracy and low RMSE
-<img width="244" alt="image" src="https://github.com/user-attachments/assets/0041b517-3f02-4447-b65f-bd0e08463a99" />
 
 ---
 
