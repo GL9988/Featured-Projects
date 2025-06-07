@@ -11,7 +11,7 @@ library(ggplot2)
 library(dplyr)
 
 #Set data
-df <- read.csv("/Users/gayathriprabhala/Documents/Duke Term 2/Data Science/Project/insurance.csv")
+df <- read.csv("Please use the downloaded Dataset")
 
 # Check for missing values and duplicates
 sum(duplicated(df))
