@@ -64,7 +64,7 @@ Applied and compared 4 models to predict insurance charges:
 
 ## ▶️ Run This Project  
 ```bash
-git clone https://github.com/YourUsername/Insurance-Premium-Prediction
+git clone [https://github.com/YourUsername/Insurance-Premium-Prediction](https://github.com/GL9988/Featured-Projects/blob/main/Machine%20Learning%20Models.R)
 cd insurance-premium
 pip install -r requirements.txt
 python model_train.py
